@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Laptop",
+        "price": 150000,
+        "stock": 5,
+        "tags": [
+            "Electronics"
+        ]
+    },
+    {
+        "name": "Mouse",
+        "price": 2500,
+        "stock": 0,
+        "tags": [
+            "Accessory"
+        ]
+    },
+    {
+        "name": "Keyboard",
+        "price": 5000,
+        "stock": 0,
+        "tags": [
+            "Electronics"
+        ]
+    },
+    {
+        "name": "Monitor",
+        "price": 40000,
+        "stock": 3,
+        "tags": [
+            "Electronics"
+        ]
+    },
+    {
+        "name": "Headphones",
+        "price": 8000,
+        "stock": 0,
+        "tags": [
+            "Audio"
+        ]
+    }
+]
